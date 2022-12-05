@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mishrapranshum
 - 👀 I’m interested in learn new
-- 🌱 I’m currently learning programing c
+- 🌱 I’m currently learning programing 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
